@@ -23,4 +23,4 @@ Closing Note:
 
 Am I joking? You don't have the flops to tell.
 
-P.S. At the end of every story, she flips a coin and logs it in Excel. For the nerds.
+P.S. At the end of every story, she flips a coin and logs it in Excel. And oh, it's n+1 nights, nerds.
