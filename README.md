@@ -13,12 +13,19 @@ Methods: A non-rigorous exploration of thermodynamic principles in LLMs and comp
 Questions to Ponder:
 
 Identity: Does AI Scheherazade have a distinct identity? What defines it?
+
 Authorship: Who is the true author when AI tells stories?
+
 Purpose: What would be the purpose of an AI Scheherazade?
+
 Moral Agency: Can AI understand and make moral choices?
+
 Narrative Intelligence: How close can AI get to engaging, interconnected storytelling?
+
 Temporality: How would the concept of time work for an AI Scheherazade?
+
 Adaptation: How can AI achieve dynamic responsiveness?
+
 Closing Note:
 
 Am I joking? You don't have the flops to tell.
